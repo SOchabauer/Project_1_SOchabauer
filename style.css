@@ -1,3 +1,4 @@
+html {background-color: #A17C8E}
 h1 {
   color: navy;
   font-family: Rockwell,Bold;
@@ -8,15 +9,12 @@ h4 {
   font-family: Rockwell,Bold;
   text-align: center;
 }
-
-
-
 p{
-  color:navy;
+  color:black;
   font-family: Rockwell,Bold;
   text-align: center;
 }
-p {
+ h6{
   color: black;
   font-family: produkt,regular;
   text-align: center;
